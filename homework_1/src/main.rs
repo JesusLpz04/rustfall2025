@@ -16,7 +16,7 @@ fn assignment_1(){
     }
     celsius_to_fahrenheit(52.0);
 
-    for i in 0..5{
+    for i in 0..6{
         println!("{}",fahrenheit_to_celsius(freeze+i as f64))
     }
 }
